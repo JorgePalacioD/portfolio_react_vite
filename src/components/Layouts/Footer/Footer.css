@@ -1,0 +1,10 @@
+footer ul {
+  display: flex;
+  background-color: black;
+  margin-bottom: 1rem;
+  margin-top: 4rem;
+}
+
+footer ul a {
+  margin: 1rem;
+}

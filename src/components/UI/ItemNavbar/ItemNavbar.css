@@ -1,0 +1,9 @@
+li,
+a {
+  font-size: 2.5rem;
+  color: #c1ff95;
+  list-style: none;
+  text-decoration: none;
+  text-shadow: 4px 4px #29690b;
+  margin: 0.5rem 0;
+}

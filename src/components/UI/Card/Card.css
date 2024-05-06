@@ -1,0 +1,25 @@
+.card-div {
+  display: flex;
+  background-color: #39a900;
+  width: 45%;
+  height: 8rem;
+  border-radius: 15px;
+  margin: 0.5rem;
+}
+
+.main-container .card-div img {
+  width: 40%;
+  margin: 1rem;
+}
+
+.card-div ul {
+  text-align: center;
+  margin-left: 1rem;
+  width: 50%;
+  line-height: 0.5;
+}
+
+.card-div ul a {
+  font-size: 1rem;
+  text-shadow: none;
+}

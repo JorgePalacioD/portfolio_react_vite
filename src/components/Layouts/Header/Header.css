@@ -1,0 +1,9 @@
+.header-page {
+  width: 35%;
+  background-color: #39a900;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: solid 2px #fff;
+}

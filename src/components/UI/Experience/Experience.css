@@ -1,0 +1,21 @@
+.main-container .experience-card {
+  display: flex;
+  margin: 1rem;
+}
+
+.main-container .experience-card div hr {
+  width: 90%;
+  height: 1rem;
+  background: linear-gradient(to right, #39a900 30%, #c1ff95 70%);
+  border-radius: 10px;
+}
+
+.main-container .experience-card div {
+  margin: 1rem;
+  flex-direction: column;
+}
+
+.main-container .experience-card div img {
+  border-radius: 50%;
+  height: 5rem;
+}

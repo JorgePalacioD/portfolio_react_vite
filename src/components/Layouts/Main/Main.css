@@ -1,0 +1,67 @@
+main {
+  width: 65%;
+  height: 100%;
+}
+
+.main-container {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+.main-container div {
+  display: flex;
+}
+
+.main-container div img {
+  width: 5rem;
+  background-color: #c1ff95;
+  margin: 0;
+}
+
+.main-container div h3 {
+  font-size: 3rem;
+  color: #59595c;
+}
+
+hr {
+  background-color: #c1ff95;
+  height: 0.7rem;
+  width: 80%;
+  border: none;
+  margin: 1rem 0;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.main-container .card-proyect {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-references {
+  display: flex;
+}
+
+.references-container {
+  border: 0.3rem solid #59595c;
+  margin: 1rem;
+  width: 30%;
+}
+
+.references-container ul {
+  line-height: 0.5;
+}
+
+.references-container ul a {
+  color: black;
+  font-size: 1rem;
+  text-shadow: none;
+  margin: none;
+}
